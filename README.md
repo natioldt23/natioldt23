@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @natioldt23
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on anywhere
+- 🌱 I’m currently learning Ruby
 - 📫 How to reach me call me
 
 
